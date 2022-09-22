@@ -22,7 +22,7 @@
 
 # Work Done By Me !
 
-You can check work done by me in my profile or you can visit my portfolio website.
+You can check work done by me in my profile or you can checkout websites below.
 
 <!-- [My Portfolio Website !]() -->
 
