@@ -31,7 +31,7 @@ You can check work done by me in my profile or you can checkout websites below.
 ### check out my other project aswell
 -[ Project 13 !](https://balaji-project-13.netlify.app/)
 
-<a href="https://paytm-replica.vercel.app/"  target="_blank" >click here </a>
+# <a href="https://paytm-replica.vercel.app/"  target="_blank" >click here </a>
 
 -[ Project 12 !](https://balaji-project-12.netlify.app/)
 
