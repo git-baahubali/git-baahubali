@@ -29,13 +29,11 @@ You can check work done by me in my profile or you can checkout websites below.
 # [🤩Latest Project: Paytm Replica](https://github.com/git-baahubali/Paytm-Replica) [ 👉Live link👈](https://paytm-replica.vercel.app/)
 
 ### check out my other project aswell
--[ Project 13 !](https://balaji-project-13.netlify.app/)
 
-# <a href="https://paytm-replica.vercel.app/"  target="_blank" >click here </a>
+# <a href="https://balaji-project-13.netlify.app/"  target="_blank" >Project 13 !</a>
+# <a href="https://balaji-project-12.netlify.app/"  target="_blank" >Project 12 ! </a>
+# <a href="https://bahubali-project-11.netlify.app/"  target="_blank" >Project 11 !</a>
 
--[ Project 12 !](https://balaji-project-12.netlify.app/)
-
--[ Project 11 !](https://baahubali-project-11.netlify.app/)
 
 </br>
 
