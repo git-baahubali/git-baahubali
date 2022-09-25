@@ -26,7 +26,7 @@ You can check work done by me in my profile or you can checkout websites below.
 
 <!-- [My Portfolio Website !]() -->
 
-# [🤩Latest Project: Paytm Replica](https://github.com/git-baahubali/Paytm-Replica) <a href="https://balaji-project-13.netlify.app/"  target="_blank" >👉Live link👈</a>
+# [🤩Latest Project: Paytm Replica](https://github.com/git-baahubali/Paytm-Replica) [ 👉Live link👈](https://paytm-replica.vercel.app/) <a href="https://paytm-replica.vercel.app/"  target="_blank" >👉Live link👈</a>
 
 ### check out my other project aswell
 
