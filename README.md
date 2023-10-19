@@ -26,7 +26,10 @@ You can check work done by me in my profile or you can checkout websites below.
 
 <!-- [My Portfolio Website !]() -->
 
-# [🤩Latest Project: Twitter like Microbloggging platform called 100X ](https://github.com/git-baahubali/Paytm-Replica](https://github.com/git-baahubali/100xmicroblog) <a href="https://microblogging100x-dadb27e921ca.herokuapp.com/"  target="_blank" >👉Live link👈</a>
+# [ ](https://github.com/git-baahubali/Paytm-Replica](https://github.com/git-baahubali/100xmicroblog) <a href="https://microblogging100x-dadb27e921ca.herokuapp.com/"  target="_blank" >👉Live link👈</a>
+
+## [🤩Latest Project: Twitter like Microbloggging platform called 100X](https://github.com/git-baahubali/100xmicroblog) <a href="https://microblogging100x-dadb27e921ca.herokuapp.com/"  target="_blank" >👉Live link👈</a>
+
 
 ## [🤩Paytm Replica](https://github.com/git-baahubali/Paytm-Replica) <a href="https://paytm-replica.vercel.app/"  target="_blank" >👉Live link👈</a>
 
